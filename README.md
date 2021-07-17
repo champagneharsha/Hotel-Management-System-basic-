@@ -1,10 +1,12 @@
 # Hotel-Management-System-basic-
 #Project on Hotel Management System using Python on Command Line (Basic)
+
 ABSTRACT:-
 This Project on Hotel Management is a general software developed (using Python) to simplify hotel operations by automating them. In this project, “AnCasa” is the project’s 
 hotel name. It covers major aspects of hotel management; it could perform the
 following operations- Hotel Booking, Provide you with Hotel Rooms Info, Food Served
 and Room Billing
+
 MODULES USED:-
 Functions Created
 1.Home()- Function to display the project’s main screen i.e. the homepage of the
